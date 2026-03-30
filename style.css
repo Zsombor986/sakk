@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+
+body{
+    background-image: url(sakk-hatter.png);
+}
+
+.sakk-hatter {
+    size: 300px;
+}
+
+.cimsor {
+    font-size: 96px;
+    font-family: Cinzel Decorative;
+    justify-content: center;
+}
+
+.fk{
+    font-weight: bold;
+}
+
+.feher{
+    background-color: white;
+    color: black;
+}
+
+.fekete {
+    background-color: black;
+    color: white;
+}
+
+.alakzat{
+    justify-content: center;
+    margin: 0;
+    font-size: 6rem;
+}
+
+.kepalairas{
+    font-style: italic;
+    border: 1px solid black;
+    border-radius: 6px;
+}
